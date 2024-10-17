@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+}
+.heading{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    padding-top: 0.5rem ;
+    padding-bottom: 0.5rem ;
+    font-weight: 500;
+    font-size: xx-large;
+    border-bottom: 1.5px solid rgba(209, 204, 204 , 0.7);
+    
+    
+
+}
+.about{
+    color: #180056;
+}
+.us{
+    color: #FBA115;
+}
+.content{
+  
+    width: 100%;
+    height: 100vh;
+   
+}
+.about-rrj{
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    
+}
+.about-head{
+    display: flex;
+   margin-left: 5rem;
+   font-size: 3rem;
+   
+  
+}
+.ab{
+    color: #180056;
+    font-weight: 700;
+}
+.RRJ{
+    color: #FBA115;
+    margin-left: 1rem;
+    font-weight: 900;
+   
+}
+.aca{
+    color: #FBA115;
+    margin-left: 1rem;
+    font-weight: bolder;
+}
+.content-about{
+    margin-top: 1rem;
+    padding:0 4rem 0 4rem;
+    font-weight: 300;
+    font-size: 1.3rem;
+    opacity: 0.7;
+}
+.about-content p{
+    margin-top: 0.5rem;
+   
+}
+    
